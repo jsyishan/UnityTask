@@ -1,0 +1,41 @@
+{
+	"config" : {
+		"level" : 2,
+		"spawnTime" : 1.0,
+		"spawnDeltaTime" : 5.0
+	},
+	"levels" : [
+		{
+			"spawnUnits" : [
+				{
+					"id" : 0,
+					"quantity" : 1
+				},
+				{
+					"id" : 1,
+					"quantity" : 1
+				},
+				{
+					"id" : 2,
+					"quantity" : 1
+				}
+			]
+		},
+		{
+			"spawnUnits" : [
+				{
+					"id" : 3,
+					"quantity" : 5
+				},
+				{
+					"id" : 2,
+					"quantity" : 1
+				},
+				{
+					"id" : 4,
+					"quantity" : 1
+				}
+			]
+		}
+	]
+}
